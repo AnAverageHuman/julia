@@ -572,6 +572,7 @@ export
     codeunits,
     digits,
     digits!,
+    eachsplit,
     escape_string,
     hex2bytes,
     hex2bytes!,
